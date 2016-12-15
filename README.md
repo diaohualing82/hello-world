@@ -1,2 +1,2 @@
 # hello-world
-my first xiangmu
+my first programs
